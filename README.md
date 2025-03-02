@@ -1,4 +1,4 @@
-#Secret Language Encoder and Decoder 
+# Secret Language Encoder and Decoder 
 Description:<br>
 This Python program allows users to encode and decode secret messages using a simple transformation technique. It adds a layer of obfuscation to your messages, making them unreadable to those who don't know the method.<br>
 
